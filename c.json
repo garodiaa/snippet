@@ -1,0 +1,14 @@
+{
+	 "Bare minimum C program": {
+	 	"prefix": "main2",
+	 	"body": [
+	 		"#include<stdio.h>",
+	 		"int main()",
+	 		"{",
+	 		"\t",
+	 		" \treturn 0;",
+	 		"}"
+	 	],
+	 	"description": "C program"
+	 }
+}
